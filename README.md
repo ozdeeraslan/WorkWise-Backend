@@ -1,8 +1,12 @@
-# WorkWise
+﻿# WorkWise
 
-A Human Resources Management N-Layered .NET Core Web API Project 
-Back-End Development: ASP. NET Core Web API (RestFul) 
-Frontend Development: React, HTML, CSS, JavaScript
+A Human Resources Management N-Layered .NET Core Web API Project.
+
+🛠️ Backend Technologies: Employing N-layered architecture, .Net 8, Asp.net Web API, Azure cloud database, Identity, and Jwt Token, Workwise ensures robustness and scalability.
+
+🎨 Frontend Technologies: Leveraging React.js, Html, Css, Javascript, React-Bootstrap, Axios, Toastify, Popover, Dependency Injection, and Jwt Token Decoder, the user experience is seamless and intuitive.
+
+For Frontend Github Link : https://github.com/ozdeeraslan/WorkWise_Frontend.git
 
 Design Pattern: Onion Architecture
 
@@ -32,3 +36,6 @@ WebAPI
 - Microsoft AspNetCore Authentication JwtBearer
 - Microsoft AspNetCore Identity UI
 - Microsoft EFCore Design
+
+
+
