@@ -10,8 +10,6 @@ Methodology: Agile Scrum
 
 DevOps Operations: Azure DevOps Portal
 
-Link ==> https://workwiseapp.azurewebsites.net
-
 Database Technologies: Azure SQL Database
 
 Application Core
